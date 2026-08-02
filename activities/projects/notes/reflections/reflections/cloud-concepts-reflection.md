@@ -1,9 +1,0 @@
-# Cloud Concepts Reflection
-
-Cloud computing has become a part of my daily life, even before I started studying it in class. Some of the cloud services I use regularly are **Google Drive**, **Canva**, and **Messenger**. Google Drive allows me to save my documents online and access them from different devices. It is an example of **Software as a Service (SaaS)** because I use the application through a web browser without installing or managing the infrastructure behind it. It also uses the **Public Cloud** deployment model since it is available to anyone with an account.
-
-Canva is another cloud service that I frequently use for making presentations, posters, and school projects. Like Google Drive, it is also a **SaaS** application running on the **Public Cloud** because it is accessible online and shared by many users. Messenger is also a **SaaS** application on the **Public Cloud** since it provides messaging and communication services over the internet without requiring users to manage servers or software updates.
-
-Learning about cloud computing helped me realize how much these services make everyday tasks easier. I can collaborate with classmates, store important files safely, and continue my work from almost any device with an internet connection.
-
-I also learned why **Git** and **GitHub** are important when working on cloud projects. Version control helps keep track of every change made to files, making it easier to review previous versions or recover from mistakes. GitHub allows multiple people to work on the same project without overwriting each other's work. It also provides a clear history of updates, making collaboration more organized and efficient. Overall, this activity showed me that cloud computing is not only a topic discussed in class but also a technology that supports many of the applications I use every day. Understanding these concepts will help me become more prepared for future IT projects and real-world collaboration.
