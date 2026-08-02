@@ -14,8 +14,8 @@ This repository serves as my organized workspace for all course requirements, in
 ## 👤 Student Information
 
 - Name: CYRIEL SHENE E. APOLINAR
-- Course/Section: (Ilagay ang course at section mo)
-- Instructor: (Instructor Name)
+- Course/Section: BSIT 4-A
+- Instructor: JENKIELYN TORRES
 - School Year: 2026-2027
 
 ## 📂 Repository Structure
